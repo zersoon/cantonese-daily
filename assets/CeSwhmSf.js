@@ -1,0 +1,1 @@
+import{a8 as r,a9 as o,aa as u,a1 as c,ab as i}from"./zJHSoKrF.js";function x(e){const t=e||o();return t?.ssrContext?.head||t?.runWithContext(()=>{if(u())return c(i)})}function d(e,t={}){const a=x(t.nuxt);if(a)return r(e,{head:a,...t})}const h=(e,t)=>{const a=e.__vccOpts||e;for(const[n,s]of t)a[n]=s;return a};export{h as _,d as u};
